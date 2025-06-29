@@ -41,10 +41,10 @@ showtoc = false
 tocopen = false
 
 [params.assets]
-favicon = "./static/favicon.ico"
-favicon16x16 = "./static/favicon-16x16.png"
-favicon32x32 = "./static/favicon-32x32.png"
-apple_touch_icon = "./static/apple-touch-icon.png"
+favicon = "/static/favicon.ico"
+favicon16x16 = "/static/favicon-16x16.png"
+favicon32x32 = "/static/favicon-32x32.png"
+apple_touch_icon = "/static/apple-touch-icon.png"
 # safari_pinned_tab = "<link / abs url>"
 
 [params.label]
@@ -88,6 +88,10 @@ url = "https://instagram.com/l_paro"
 [[params.socialIcons]]
 name = "Telegram"
 url = "https://t.me/paro_t"
+
+[[params.socialIcons]]
+name = "Email"
+url = "mailto: work.tartly799@aleeas.com"
 
 # [params.analytics.google]
 # SiteVerificationTag = "XYZabc"
