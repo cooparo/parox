@@ -7,7 +7,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-HS9V0SKE1J"
 pygmentsUseClasses = true
 
 [minify]
@@ -20,7 +20,7 @@ title = "Paro"
 description = "Luca Parolini's landpage"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Me"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
+# images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -80,6 +80,14 @@ url = "https://www.linkedin.com/in/luca-parolini-40b98a202/"
 [[params.socialIcons]]
 name = "Github"
 url = "https://github.com/cooparo"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/l_paro"
+
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/paro_t"
 
 # [params.analytics.google]
 # SiteVerificationTag = "XYZabc"
