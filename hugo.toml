@@ -42,9 +42,9 @@ tocopen = false
 
 [params.assets]
 favicon = "favicon.ico"
-favicon16x16 = "/static/favicon-16x16.png"
-favicon32x32 = "/static/favicon-32x32.png"
-apple_touch_icon = "/static/apple-touch-icon.png"
+favicon16x16 = "./static/favicon-16x16.png"
+favicon32x32 = "./static/favicon-32x32.png"
+apple_touch_icon = "./static/apple-touch-icon.png"
 # safari_pinned_tab = "<link / abs url>"
 
 [params.label]
@@ -56,9 +56,9 @@ iconHeight = 35
 enabled = true
 title = "Luca Parolini"
 subtitle = "📜 Computer Engineer | 📚 MSc Cybersecurity student at Aalborg University, Copenaghen 🇩🇰"
-imageUrl = ""
-imageWidth = 120
-imageHeight = 120
+imageUrl = "profile_img.png"
+imageWidth = 200
+imageHeight = 200
 imageTitle = "That's me :)"
 
 # [[params.profileMode.buttons]]
