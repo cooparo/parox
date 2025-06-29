@@ -1,0 +1,4 @@
+baseURL = "https://parox.dev/"
+languageCode = "en-us"
+title = "Paro"
+theme = "papermod"
